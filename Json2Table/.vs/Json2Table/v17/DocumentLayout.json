@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alibe\\source\\Json2Table\\Json2Table\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB2D3ED0-E531-459A-B5CA-65EFCCF36032}|Json2Table\\Json2Table.csproj|c:\\users\\alibe\\source\\json2table\\json2table\\json2table\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BB2D3ED0-E531-459A-B5CA-65EFCCF36032}|Json2Table\\Json2Table.csproj|solutionrelative:json2table\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB2D3ED0-E531-459A-B5CA-65EFCCF36032}|Json2Table\\Json2Table.csproj|c:\\users\\alibe\\source\\json2table\\json2table\\json2table\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB2D3ED0-E531-459A-B5CA-65EFCCF36032}|Json2Table\\Json2Table.csproj|solutionrelative:json2table\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2D3ED0-E531-459A-B5CA-65EFCCF36032}|Json2Table\\Json2Table.csproj|c:\\users\\alibe\\source\\json2table\\json2table\\json2table\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BB2D3ED0-E531-459A-B5CA-65EFCCF36032}|Json2Table\\Json2Table.csproj|solutionrelative:json2table\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\alibe\\source\\Json2Table\\Json2Table\\Json2Table\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Json2Table\\MainWindow.xaml",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alibe\\source\\Json2Table\\Json2Table\\Json2Table\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Json2Table\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\alibe\\source\\Json2Table\\Json2Table\\Json2Table\\MainWindow.xaml.cs",
               "RelativeToolTip": "Json2Table\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T09:31:27.259Z",
               "EditorCaption": ""
